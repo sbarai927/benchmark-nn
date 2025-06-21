@@ -1,5 +1,0 @@
-model,search,tunable_params,learning_rate,max_depth,subsample,colsample,val_rmse,test_rmse,test_r2,latency_ms,model_size_mb,n_estimators,n_layers,units,dropout
-Optuna_LightGBM,Optuna (TPE),"learning_rate, max_depth, subsample, colsample_bytree",0.080906,8.0,0.503774,0.977546,9319.667,6742.297,0.9191,0.01,2.663,1000.0,,,
-Optuna_XGBoost,Optuna (TPE),"learning_rate, max_depth, subsample, colsample_bytree",0.04138,6.0,0.548836,0.842117,8293.093,6201.893,0.9316,0.015,1.938,496.0,,,
-Optuna_CatBoost,Optuna (TPE),"learning_rate, depth, subsample, colsample_bylevel",0.081844,6.0,0.591143,0.592867,5746.896,5514.484,0.9459,0.03,2.124,2000.0,,,
-Optuna_MLP,Optuna (TPE),"n_layers, units, learning_rate, dropout",0.005268,,,,7201.516,8216.566,0.8799,0.039,1.227,,3.0,192.0,0.249134

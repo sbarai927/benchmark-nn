@@ -1,2 +1,0 @@
-objective,eval_metric,eta,max_depth,subsample,colsample_bytree,seed,n_estimators,train_time_s,pred_time_s,test_rmse,test_r2
-reg:squarederror,rmse,0.09877646890750276,5,0.993474960397095,0.5760618679462227,999,356,3.288,0.032,6449.413,0.926

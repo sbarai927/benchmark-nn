@@ -1,2 +1,0 @@
-objective,metric,n_estimators,learning_rate,max_depth,subsample,colsample_bytree,random_state,verbosity,train_time_s,pred_time_s,test_rmse,test_r2
-regression,rmse,1000,0.0888437158893113,12,0.6600011001317989,0.9969791651909936,7,-1,3.211,0.393,6878.613,0.9158
