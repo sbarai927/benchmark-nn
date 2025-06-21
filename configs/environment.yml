@@ -1,0 +1,24 @@
+name: benchmark-nn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scikit-learn
+  - lightgbm
+  - xgboost
+  - catboost
+  - optuna
+  - scikit-optimize            # skopt
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyterlab
+  - papermill                  # head-less notebook runner
+  - pyyaml
+  - tqdm
+  - pip
+  - pip:
+      - wandb                  # optional live dashboards
+
