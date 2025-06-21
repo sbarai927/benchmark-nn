@@ -1,0 +1,5 @@
+package,objective,metric,n_estimators,learning_rate,max_depth,subsample,colsample_bytree,random_state,verbosity,train_time_s,pred_time_s,test_rmse,test_r2,eval_metric,eta,seed,iterations,early_stopping_rounds,loss_function,verbose,depth,colsample_bylevel,random_seed,n_layers,units,dropout
+LightGBM,regression,rmse,1000.0,0.0888437158893113,12.0,0.6600011001317989,0.9969791651909936,7.0,-1.0,3.211,0.393,6878.613,0.9158,,,,,,,,,,,,,
+XGBoost,reg:squarederror,,356.0,,5.0,0.993474960397095,0.5760618679462227,,,3.288,0.032,6449.413,0.926,rmse,0.0987764689075027,999.0,,,,,,,,,,
+CatBoost,,,,0.1,,0.5,,,,10.611,1.189,5452.723,0.9471,,,,1000.0,50.0,RMSE,False,7.0,0.5,123.0,,,
+MLP,,,,0.0098730789758173,,,,,,39.77,0.586,6359.375,0.9281,,,,,,,,,,,3.0,178.0,0.1297300996294748

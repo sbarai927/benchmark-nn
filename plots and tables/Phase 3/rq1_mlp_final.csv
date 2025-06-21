@@ -1,0 +1,2 @@
+n_layers,units,learning_rate,dropout,train_time_s,pred_time_s,test_rmse,test_r2
+3,178,0.009873078975817373,0.1297300996294748,39.77,0.586,6359.375,0.9281

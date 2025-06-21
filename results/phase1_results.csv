@@ -1,0 +1,10 @@
+#;Notebook;Test_RMSE;Test_R2;Train_Time_s;Latency_ms
+1;02--baseline-model.ipynb;10613,06;0,890;0,50;0,20
+2;03--optuna.ipynb;5776,07;0,941;50,00;0,50
+3;04--hyperopt.ipynb;17887,97;0,581;55,00;0,50
+4;05--keras.ipynb;5926,95;0,938;60,00;0,50
+5;06--skopt.ipynb;7275,06;0,906;65,00;0,870
+6;07--lightgbm.ipynb;6751,84;0,919;2,84;0,322
+7;08--xgboost.ipynb;6049,01;0,935;4,13;0,074
+8;09--catboost.ipynb;5194,53;0,952;44,32;1,348
+9;10--kfold.ipynb;6918,51;0,915;1,70;0,250
