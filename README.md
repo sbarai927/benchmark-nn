@@ -272,7 +272,7 @@ The directory structure of this repository is as follows:
 
 For any questions or issues, please contact:
 - Suvendu Barai
-- Email: suvendu.bara@smail.th-koeln.de
+- Email: suvendu.barai@smail.th-koeln.de
 
 ## Additional Notes
 
