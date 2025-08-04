@@ -1,6 +1,6 @@
 # benchmark-nn  
 
-## Tabular-Regression Benchmarks: Accuracy ⚖️  Latency ⚡  Robustness 🛡️  
+## Tabular-Regression Benchmarks: Accuracy, Latency, Robustness
 
 > End-to-end study of four popular regression packages (LightGBM, XGBoost, CatBoost, MLP/Keras)  
 > evaluated across **three experimental phases**: **baseline hyper-parameter tuning**,  
